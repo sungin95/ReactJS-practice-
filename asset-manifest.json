@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.313be144.chunk.js",
-  "main.js.map": "/static/js/main.313be144.chunk.js.map",
-  "static/js/1.88f0447e.chunk.js": "/static/js/1.88f0447e.chunk.js",
-  "static/js/1.88f0447e.chunk.js.map": "/static/js/1.88f0447e.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.69002dd31a3ebba8510e10bb068cd30b.js": "/precache-manifest.69002dd31a3ebba8510e10bb068cd30b.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/ReactJS-practice-/static/js/main.313be144.chunk.js",
+  "main.js.map": "/ReactJS-practice-/static/js/main.313be144.chunk.js.map",
+  "static/js/1.88f0447e.chunk.js": "/ReactJS-practice-/static/js/1.88f0447e.chunk.js",
+  "static/js/1.88f0447e.chunk.js.map": "/ReactJS-practice-/static/js/1.88f0447e.chunk.js.map",
+  "runtime~main.js": "/ReactJS-practice-/static/js/runtime~main.b42dbbbd.js",
+  "runtime~main.js.map": "/ReactJS-practice-/static/js/runtime~main.b42dbbbd.js.map",
+  "index.html": "/ReactJS-practice-/index.html",
+  "precache-manifest.e6745169b7d8586a9ce34496c14d95a3.js": "/ReactJS-practice-/precache-manifest.e6745169b7d8586a9ce34496c14d95a3.js",
+  "service-worker.js": "/ReactJS-practice-/service-worker.js"
 }
